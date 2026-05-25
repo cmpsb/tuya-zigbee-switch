@@ -2828,6 +2828,33 @@ MODULE_UNSH_TS0002:
   info: Supported
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/216
   store: https://www.aliexpress.com/item/1005005710710150.html
+MODULE_XSH01A:
+  human_name: 1-Gang ZigBee Switch Module-PM XSH01A
+  category: module
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS0001
+  stock_manufacturer_name: _TZ3000_x3ewpzyr
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0001_power
+  override_z2m_device: XSH01A
+  tuya_module: ZT2S_real
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: x3ewpzyr;TS0001-PM;BB4u;IB5i;SC3u;RC2;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 50000
+  build: yes
+  status: mostly_supported
+  info: No power monitoring
+  threads: null
+  store: null
 MODULE_ZBEACON_TS0002:
   human_name: Zbeacon 2-gang
   category: module
