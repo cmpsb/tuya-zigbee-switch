@@ -750,7 +750,7 @@ MODULE_EKF_TS0011:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43593
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID (maybe tw4ztbp4) and pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/205
@@ -804,7 +804,7 @@ MODULE_EKF_TS0013:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43594
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/205
@@ -889,7 +889,7 @@ MODULE_FARYLINK_TS0001:
   stock_manufacturer_id: 4107
   stock_image_type: 517
   firmware_image_type: 43591
-  build: yes
+  build: no
   status: in_progress
   info: Stops responding after OTA update?
   threads: https://github.com/romasku/tuya-zigbee-switch/pull/243
@@ -971,7 +971,7 @@ MODULE_FARYLINK_L_TS0002:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43618
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/326
@@ -998,7 +998,7 @@ MODULE_FARYLINK_L_TS0003:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43619
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/326
@@ -1025,7 +1025,7 @@ MODULE_GIRIER_A_TS0001:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43620
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/183
@@ -1052,7 +1052,7 @@ MODULE_GIRIER_A_TS0002:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43596
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/183
@@ -1134,7 +1134,7 @@ MODULE_GIRIER_B_TS0002:
   stock_manufacturer_id: 4417
   stock_image_type: 2050
   firmware_image_type: 43621
-  build: yes
+  build: no
   status: in_progress
   info: Needs id and pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/327
@@ -1493,7 +1493,7 @@ MODULE_IHSENO_TS0002:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 45572
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID, pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/105
@@ -1747,7 +1747,7 @@ MODULE_MOES_ZM4LT1_TS0001:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43575
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/167
@@ -2333,7 +2333,7 @@ MODULE_TUYA_NOVATO_DRY_TS000F_1GANG:
   stock_manufacturer_id: null
   stock_image_type: null
   firmware_image_type: 43639
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout + RF daughterboard not supported
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/372
@@ -3160,7 +3160,7 @@ REMOTE_AQARA_WXKG02LM:
   stock_manufacturer_id: null
   stock_image_type: null
   firmware_image_type: 43597
-  build: yes
+  build: no
   status: unsupported
   info: NXP chip not supported, needs pinout
   threads: null
@@ -3629,7 +3629,7 @@ REMOTE_TUYA_TS0041:
   stock_manufacturer_id: null
   stock_image_type: null
   firmware_image_type: 43579
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/171
@@ -4567,7 +4567,7 @@ SWITCH_BSEED_TS0726_L_3GANG:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43634
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/363
@@ -4624,7 +4624,7 @@ SWITCH_BSEED_TS0726_L_4GANG:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43635
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/363
@@ -4762,7 +4762,7 @@ SWITCH_HOMEETEC_TOUCH_TS0004:
   stock_manufacturer_id: null
   stock_image_type: null
   firmware_image_type: 43610
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/286
@@ -4885,7 +4885,7 @@ SWITCH_LERLINK_TS0011:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43624
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/333
@@ -5509,7 +5509,7 @@ SWITCH_TUYA_CN_TS0002:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 45569
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and netled on A0
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/181
@@ -5536,7 +5536,7 @@ SWITCH_TUYA_CN_TS0003:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 45570
-  build: yes
+  build: no
   status: in_progress
   info: Needs ID and netled on A0
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/181
@@ -5590,7 +5590,7 @@ SWITCH_TUYA_TOUCH_TS0011:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 45581
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/104
@@ -5727,7 +5727,7 @@ SWITCH_ZEMISMART_TS0601_6GANG:
   stock_manufacturer_id: null
   stock_image_type: null
   firmware_image_type: 43576
-  build: yes
+  build: no
   status: in_progress
   info: Needs pinout. Secondary MCU. 6-gang!
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/209
